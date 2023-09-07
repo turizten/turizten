@@ -1,6 +1,6 @@
 # Hello, I'm Anton! 👋
 
-![Anton's Profile Picture] (https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/298709005_5447023505320661_661941933473542905_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=DtZJkvN7tpIAX9KK9gL&_nc_ht=scontent-ssn1-1.xx&oh=00_AfDp_VGkQNQ9lS1xb0HbfD6HJqor5XDkfqPrtvaTFZuN6Q&oe=64FDB782)
+[Anton's Profile Picture] (https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/298709005_5447023505320661_661941933473542905_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=DtZJkvN7tpIAX9KK9gL&_nc_ht=scontent-ssn1-1.xx&oh=00_AfDp_VGkQNQ9lS1xb0HbfD6HJqor5XDkfqPrtvaTFZuN6Q&oe=64FDB782)
 
 I'm Anton, a 22-year-old exchange student from Sweden currently studying in Seoul, South Korea. I'm passionate about nature, running, and exploring new places.
 
